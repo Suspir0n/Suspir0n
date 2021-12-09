@@ -15,6 +15,8 @@
 - 👯 I’m looking to collaborate with my acquired knowledge
 - 🤔 The frameworks I use the most are: Django, Flask and FastAPI
 - 💬 Ask me about any subject
+  
+##
 
 ### 📝 Articles
 
@@ -30,11 +32,15 @@
 * [KISS - Keep it simple, stupid!](https://dev.to/suspir0n/kiss-mantenha-a-simplicidade-estupido-24lh)
 * [YAGNI - You aren't gonna need it.](https://dev.to/suspir0n/yagni-voce-nao-vai-precisar-disso-1kcj)
 
+##
+
 ### 📈📈 Freelancers
 
 * [Positiva Negocios](https://www.positivanegocios.com.br/)
 * [Single Bar Investimentos](https://singlebarinvestimentos.com.br/)
 
+##  
+  
 ### 🚀 Skills
 
 <div align="center"> 
@@ -51,6 +57,8 @@
   <a href="https://github.com/Suspir0n?utf8=%E2%9C%93&tab=repositories&q=&type=&language=sqlite" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/Suspir0n?utf8=%E2%9C%93&tab=repositories&q=&type=&language=heroku" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank"></a>  
 </div>
+  
+##
 
 ### 💻 OS
 
