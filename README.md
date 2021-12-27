@@ -31,6 +31,8 @@
 * [Introducing the "blockchain" with python](https://dev.to/suspir0n/introduzindo-o-blockchain-com-python-41dc)
 * [KISS - Keep it simple, stupid!](https://dev.to/suspir0n/kiss-mantenha-a-simplicidade-estupido-24lh)
 * [YAGNI - You aren't gonna need it.](https://dev.to/suspir0n/yagni-voce-nao-vai-precisar-disso-1kcj)
+* [DRY - Don't repeat yourself](https://dev.to/suspir0n/dry-nao-se-repita-jnj)
+* [Algorithm Complexity with Big'O.](https://dev.to/suspir0n/complexidade-de-algoritmo-com-bigo-3lmi)
 
 ##
 
