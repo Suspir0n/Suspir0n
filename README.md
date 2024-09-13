@@ -42,6 +42,12 @@
 * [Single Bar Investimentos](https://singlebarinvestimentos.com.br/)
 
 ##  
+
+### Rank Git
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Suspir0n&theme=onedark)](https://github.com/Suspir0n/github-profile-trophy)
+
+##
   
 ### 🚀 Skills
 
